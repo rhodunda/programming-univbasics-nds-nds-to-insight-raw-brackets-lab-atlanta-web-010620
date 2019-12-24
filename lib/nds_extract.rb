@@ -6,7 +6,7 @@ def directors_totals(nds)
 total = {}  
 
 
-while 
+while directors_totals <=
   
   
   
