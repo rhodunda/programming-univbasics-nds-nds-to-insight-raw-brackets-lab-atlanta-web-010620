@@ -12,6 +12,8 @@ while directors_totals < nds.lenght do
   movie_index = 0 
   
   
+  while 
+  
   
   
   
