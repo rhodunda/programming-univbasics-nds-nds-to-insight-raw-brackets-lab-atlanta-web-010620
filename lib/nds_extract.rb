@@ -3,7 +3,10 @@ require 'directors_database'
 
 def directors_totals(nds)
   directors = 0
-total =   
+total = {}  
+
+
+while 
   
   
   
