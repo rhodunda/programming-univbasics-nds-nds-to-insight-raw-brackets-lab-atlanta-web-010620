@@ -7,7 +7,8 @@ total = {}
 
 
 while directors_totals < nds.lenght do
-  director name = nds[director_index][]
+  director name = nds[director_index][:name]
+  
   
   
   
